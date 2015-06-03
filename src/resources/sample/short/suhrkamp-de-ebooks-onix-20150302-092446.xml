@@ -1,0 +1,1359 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ONIXmessage release="2.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.editeur.org/onix/2.1/short http://www.wirth-horn.de/onix/2.1/ONIX_BookProduct_Release2.1_short.xsd">
+  <header>
+    <senderidentifier><m379>04</m379><b244>16329</b244></senderidentifier>
+    <m174>Suhrkamp Verlag</m174>
+    <m175>Manfred Drescher, Suhrkamp Verlag, 030/740744-251 oder Eckart H. Horn, Wirth und Horn Informationssysteme, 089/624477-77</m175>
+    <m283>mdrescher@suhrkamp.de</m283>
+    <m182>20150302092447</m182>
+    <m184>ger</m184>
+    <m185>04</m185>
+    <m186>EUR</m186>
+  </header>
+
+  <!-- PRODUCT No.1 -->
+  <product>
+    <a001>iv1978-3-458-73609-7</a001>
+    <a002>03</a002>
+    <productidentifier>
+      <b221>03</b221>
+      <b244>9783458736097</b244>
+    </productidentifier>
+    <productidentifier>
+      <b221>15</b221>
+      <b244>9783458736097</b244>
+    </productidentifier>
+    <b012>DG</b012>
+    <b211>029</b211>
+    <b212>2.0</b212>
+    <b277>03</b277>
+    <title>
+      <b202>01</b202>
+      <b203>Wir träumten jeden Sommer</b203>
+    </title>
+    <title>
+      <b202>03</b202>
+      <b203>The Lullaby of Polish Girls</b203>
+    </title>
+    <contributor>
+      <b035>B06</b035>
+      <b340>1</b340>
+      <b036>Isabel Bogdan</b036>
+      <b037>Bogdan, Isabel</b037>
+      <b039>Isabel</b039>
+      <b040>Bogdan</b040>
+    <website>
+      <b295>http://www.suhrkamp.de/autoren/autor.cfm?id=12701</b295>
+    </website>
+    </contributor>
+    <contributor>
+      <b035>A01</b035>
+      <b340>1</b340>
+      <b036>Dagmara Dominczyk</b036>
+      <b037>Dominczyk, Dagmara</b037>
+      <b039>Dagmara</b039>
+      <b040>Dominczyk</b040>
+      <b044 textformat="02"><![CDATA[<p>Dagmara Dominczyk wurde in Polen geboren und emigrierte mit  sieben Jahren mit ihrer Familie nach New York. Sie spielte in zahlreichen  Filmen, Fernsehserien und Theaterst&uuml;cken mit. Sie lebt mit ihrem Mann, dem  Schauspieler Patrick Wilson, und ihren beiden gemeinsamen S&ouml;hnen in New  Jersey.</p>]]></b044>
+    <website>
+      <b295>http://www.suhrkamp.de/autoren/autor.cfm?id=12702</b295>
+    </website>
+    </contributor>
+    <b057>1</b057>
+    <language>
+      <b253>01</b253>
+      <b252>ger</b252>
+    </language>
+    <b061>288</b061>
+    <b255>288</b255>
+    <mainsubject>
+      <b191>26</b191>
+      <b068>2.0</b068>
+      <b069>9112</b069>
+    </mainsubject>
+    <mainsubject>
+      <b191>93</b191>
+      <b068>1.0</b068>
+      <b069>FBA</b069>
+    </mainsubject>
+    <subject>
+      <b067>94</b067>
+      <b068>1.0</b068>
+      <b069>1KBB</b069>
+    </subject>
+    <subject>
+      <b067>94</b067>
+      <b068>1.0</b068>
+      <b069>1DTP</b069>
+    </subject>
+    <othertext>
+      <d102>01</d102>
+      <d103>06</d103>
+      <d104>Roggenbrot, brennendes Heu und frische Wäsche – so riecht Heimat für die New Yorkerin Anna Baran. Polen, das Land ihrer Kindheit. Damals hat sie mit ihren Freundinnen Justyna und Kamila herrliche Nachmittage am See verbracht, Klamotten und Jungsgeschichten, Träume und Sehnsüchte geteilt, während aus dem Kassettenrekorder Forever Young dröhnte. Doch jetzt, mit Anfang dreißig, ist Annas Leben aus dem Ruder gelaufen, Kamilas Ehe zerbrochen – und als Justynas Mann ermordet wird, ist den Freundinnen klar: Wir kommen da durch, durchs Leben – aber nur, wenn wir zusammenhalten.
+Dagmara Dominczyks Debüt ist ein lebenspraller Sommertag, durchzogen vom Duft nach frischem Gras, ein großes Leuchten auf einem kühlen See. Sie erzählt berührend von drei starken Frauen, die gemeinsam der Unbill des Lebens trotzen und die auch kein Ozean auseinanderzubringen vermag.</d104>
+    </othertext>
+    <othertext>
+      <d102>13</d102>
+      <d103>02</d103>
+      <d104><![CDATA[<p>Dagmara Dominczyk wurde in Polen geboren und emigrierte mit  sieben Jahren mit ihrer Familie nach New York. Sie spielte in zahlreichen  Filmen, Fernsehserien und Theaterst&uuml;cken mit. Sie lebt mit ihrem Mann, dem  Schauspieler Patrick Wilson, und ihren beiden gemeinsamen S&ouml;hnen in New  Jersey.</p>
+
+]]></d104>
+    </othertext>
+    <othertext>
+      <d102>99</d102>
+      <d104>DE</d104>
+    </othertext>
+    <othertext>
+      <d102>08</d102>
+      <d103>02</d103>
+      <d104><![CDATA[<p>»Dieses Debüt sprudelt geradezu über vor tränenreichen Geständnissen, Verrat und Liebe. ›Girls‹ mit polnischem Akzent.«<br /><em>The New York Times</em></p>]]></d104>
+    </othertext>
+    <othertext>
+      <d102>08</d102>
+      <d103>02</d103>
+      <d104><![CDATA[<p>»Unwiderstehlich. Ein wahrhaftes Porträt von Freundschaft und Identität. Dominczyk schreibt frisch und souverän.«<br /><em>People</em></p>]]></d104>
+    </othertext>
+    <othertext>
+      <d102>08</d102>
+      <d103>02</d103>
+      <d104><![CDATA[<p>»Der Roman <em>Wir träumten jeden Sommer</em> ist voll mit den überfließenden Gefühlen der Jugend und zeigt zugleich, wie hart die Realität im Erwachsenenalter zuschlagen kann. Die Geschichte handelt jedoch nicht vom Aufgeben naiver Jugendträume, sondern von deren Weiterentwicklung und von neuen Lebenswegen. Ein Buch für einen heißen Sommertag am See.«<br /><em>Bonny Oppermann, Lesart</em></p>]]></d104>
+    </othertext>
+    <othertext>
+      <d102>08</d102>
+      <d103>02</d103>
+      <d104><![CDATA[<p>»Diese eckige Entwicklungsgeschichte vom Mädchen zur Frau bewegt mit ihrem schnörkellosen Stil, starken Dialogen und erfrischend offenen ... Selbsterkenntnissen. Ein Roman, der Mut macht, das eigene Leben nicht aufzugeben, sondern es zwischen den Entwicklungen des Weltgeschehens zu suchen und immer wieder zu finden.«<br /><em>Helga Egetenmeier, aviva-berlin.de Mai 2014</em></p>]]></d104>
+    </othertext>
+    <othertext>
+      <d102>08</d102>
+      <d103>02</d103>
+      <d104><![CDATA[<p>»Dagmara Dominczyks Roman ist ein einziger lebenspraller Sommertag, durchzogen vom Duft nach frischem Gras, ein großes Leuchten auf einem kühlen See, einer Kindheit in Polen. Sie erzählt berührend von drei starken Frauen, die gemeinsam den Widrigkeiten des Lebens trotzen und die auch kein Ozean auseinander zu bringen vermag.«<br /><em>Pablo. Das Magazin für Lebensart 2/2014</em></p>]]></d104>
+    </othertext>
+    <othertext>
+      <d102>08</d102>
+      <d103>02</d103>
+      <d104><![CDATA[<p>»Ein wunderbarer Sommerroman – wie <em>Hanni und Nanni</em> für Große.«<br /><em>AIDA Magazin 1/2014</em></p>]]></d104>
+    </othertext>
+    <mediafile>
+      <f114>01</f114>
+      <f116>06</f116>
+      <f117>9783458736097.epub</f117>
+    </mediafile>
+    <publisher>
+      <b291>01</b291>
+      <b241>04</b241>
+      <b243>13157</b243>
+      <b081>Insel Verlag</b081>
+    </publisher>
+    <publisher>
+      <b291>01</b291>
+      <b241>05</b241>
+      <b243>5107848</b243>
+      <b081>Insel Verlag</b081>
+    </publisher>
+    <b209>Berlin</b209>
+    <b083>DE</b083>
+    <b003>20140310</b003>
+    <relatedproduct>
+      <h208>13</h208>
+      <productidentifier>
+        <b221>15</b221>
+        <b244>9783458360698</b244>
+      </productidentifier>
+    </relatedproduct>
+    <supplydetail>
+      <j137>Suhrkamp Verlag / Insel Verlag</j137>
+      <website>
+        <b295>http://www.suhrkamp.de/handel_184.html</b295>
+      </website>
+      <j292>01</j292>
+      <j141>IP</j141>
+      <j396>20</j396>
+    <j143>20140310</j143>
+      <price>
+        <j148>04</j148>
+        <j151>16.99</j151>
+        <j152>EUR</j152>
+        <b251>DE</b251>
+        <j153>S</j153>
+        <j162>20150301</j162>
+      </price>
+      <price>
+        <j148>04</j148>
+        <j151>16.99</j151>
+        <j152>EUR</j152>
+        <b251>AT</b251>
+        <j153>S</j153>
+        <j162>20150301</j162>
+      </price>
+      <price>
+        <j148>02</j148>
+        <j151>21.00</j151>
+        <j152>CHF</j152>
+        <b251>CH</b251>
+        <j153>S</j153>
+        <j162>20150301</j162>
+      </price>
+      <price>
+        <j148>42</j148>
+        <j151>16.99</j151>
+        <j152>EUR</j152>
+        <b251>DE AT CH FR GB LI LU</b251>
+        <j153>S</j153>
+        <j162>20150301</j162>
+      </price>
+      <price>
+        <j148>42</j148>
+        <j151>21.00</j151>
+        <j152>CHF</j152>
+        <b251>CH</b251>
+        <j153>S</j153>
+      </price>
+      <price>
+        <j148>04</j148>
+        <j151>8.99</j151>
+        <j152>EUR</j152>
+        <b251>DE</b251>
+        <j153>S</j153>
+        <j161>20150302</j161>
+      </price>
+      <price>
+        <j148>04</j148>
+        <j151>8.99</j151>
+        <j152>EUR</j152>
+        <b251>AT</b251>
+        <j153>S</j153>
+        <j161>20150302</j161>
+      </price>
+      <price>
+        <j148>02</j148>
+        <j151>11.00</j151>
+        <j152>CHF</j152>
+        <b251>CH</b251>
+        <j153>S</j153>
+        <j161>20150302</j161>
+      </price>
+    </supplydetail>
+  </product>
+
+  <!-- PRODUCT No.2 -->
+  <product>
+    <a001>sv1978-3-518-73669-2</a001>
+    <a002>03</a002>
+    <productidentifier>
+      <b221>03</b221>
+      <b244>9783518736692</b244>
+    </productidentifier>
+    <productidentifier>
+      <b221>15</b221>
+      <b244>9783518736692</b244>
+    </productidentifier>
+    <b012>DG</b012>
+    <b211>029</b211>
+    <b212>2.0</b212>
+    <b277>03</b277>
+    <title>
+      <b202>01</b202>
+      <b203>Das letzte Land</b203>
+      <b029>Roman</b029>
+    </title>
+    <contributor>
+      <b035>A01</b035>
+      <b340>1</b340>
+      <b036>Svenja Leiber</b036>
+      <b037>Leiber, Svenja</b037>
+      <b039>Svenja</b039>
+      <b040>Leiber</b040>
+      <b044 textformat="02"><![CDATA[<p>Svenja Leiber, 1975 in Hamburg geboren, wuchs in Norddeutschland auf und lebte einige Zeit in Saudi-Arabien. Heute wohnt sie mit ihrem Mann und ihren zwei Kindern in Berlin. 2005 erschien der Erzählungsband <em>Büchsenlicht</em>, 2010 der Roman <em>Schipino</em>. Sie erhielt zahlreiche Auszeichnungen. <em>Das letzte Land</em> ist ihr erstes Buch im Suhrkamp Verlag.</p>]]></b044>
+    <website>
+      <b295>http://www.suhrkamp.de/autoren/autor.cfm?id=12691</b295>
+    </website>
+    </contributor>
+    <b057>1</b057>
+    <language>
+      <b253>01</b253>
+      <b252>ger</b252>
+    </language>
+    <b061>320</b061>
+    <b255>320</b255>
+    <mainsubject>
+      <b191>26</b191>
+      <b068>2.0</b068>
+      <b069>9112</b069>
+    </mainsubject>
+    <mainsubject>
+      <b191>93</b191>
+      <b068>1.0</b068>
+      <b069>FBA</b069>
+    </mainsubject>
+    <subject>
+      <b067>96</b067>
+      <b068>1.0</b068>
+      <b069>3MP</b069>
+    </subject>
+    <subject>
+      <b067>94</b067>
+      <b068>1.0</b068>
+      <b069>1DFG-DE-V</b069>
+    </subject>
+    <othertext>
+      <d102>01</d102>
+      <d103>06</d103>
+      <d104>Anfang des 20. Jahrhunderts in Norddeutschland. Ruven Preuk, jüngster Sohn des Stellmachers, verfügt schon als Kind über eine außerordentliche musikalische Begabung: Er sieht Töne, und auf seiner Geige spielt er sonderbare Melodien. Das bringt ihm auf dem Dorf nicht nur Bewunderung ein. Schließlich erkennt auch der alte Preuk, dass mit seinem Sohn nichts anzufangen ist. Verzweifelt versucht er, ihm die Töne aus dem Leib zu prügeln. Dann lässt er ihn ziehen.
+In der Stadt lernt Ruven beim Juden Goldbaum, in dessen Enkelin Rahel er sich ebenso verliebt wie in den Glauben an eine strahlende Karriere. Kunst bedeutet Freiheit und Anerkennung, aber die Nazis legen schon die Gewehre an. Als sein Durchbruch unmittelbar bevorsteht, reißt der Zweite Weltkrieg Deutschland in den Abgrund. Und Ruven muss erneut seinen Weg finden, am Ende aller Melodien.
+Mit Das letzte Land legt Svenja Leiber einen kapitalen Bildungsroman vor: Während um ihn herum ein ganzes Land in sich zusammenfällt, folgt ein außergewöhnlicher Musiker gegen alle Widerstände seiner Begabung.</d104>
+    </othertext>
+    <othertext>
+      <d102>13</d102>
+      <d103>02</d103>
+      <d104><![CDATA[<p>Svenja Leiber, 1975 in Hamburg geboren, wuchs in Norddeutschland auf und lebte einige Zeit in Saudi-Arabien. Heute wohnt sie mit ihrem Mann und ihren zwei Kindern in Berlin. 2005 erschien der Erzählungsband <em>Büchsenlicht</em>, 2010 der Roman <em>Schipino</em>. Sie erhielt zahlreiche Auszeichnungen. <em>Das letzte Land</em> ist ihr erstes Buch im Suhrkamp Verlag.</p>
+
+]]></d104>
+    </othertext>
+    <othertext>
+      <d102>99</d102>
+      <d104>DE</d104>
+    </othertext>
+    <othertext>
+      <d102>08</d102>
+      <d103>02</d103>
+      <d104><![CDATA[<p>»Leiber erzählt ... in einem Präsens, das in seiner aufgerauhten Kargheit ... irritiert, dessen Intensität aber bald einen Sog entfaltet, dem man sich kaum entziehen kann.«<br /><em>Sandra Kegel, Frankfurter Allgemeine Zeitung 08.03.2014</em></p>]]></d104>
+    </othertext>
+    <othertext>
+      <d102>08</d102>
+      <d103>02</d103>
+      <d104><![CDATA[<p>»Svenja Leibers Figuren sind keine klassischen Sympathie-Träger, trotzdem fühlt man sich ihnen als Leser verbunden. Vielleicht liegt das auch an der Achtsamkeit und dem Respekt, mit dem Leiber ihr Personal beschreibt.«<br /><em>Elke Biesel, Kölner Stadt-Anzeiger  07.03.2014</em></p>]]></d104>
+    </othertext>
+    <othertext>
+      <d102>08</d102>
+      <d103>02</d103>
+      <d104><![CDATA[<p>»Ein sozial hellsichtiger Roman ..., wie geschaffen, für einen Buchpreis nominiert zu werden... Unterm Strich ist es ein gutes Buch, das viel von Ausstattung, Zeitkolorit und einfühlsamer Sprache weiß.«<br /><em>René Hamann, neues deutschland 06.03.2014</em></p>]]></d104>
+    </othertext>
+    <othertext>
+      <d102>08</d102>
+      <d103>02</d103>
+      <d104><![CDATA[<p>»Svenja Leiber findet einen eigenen Ton, ein eigentümliches Accelerando und Ritardando des Erzählens, wodurch Details und Figuren in unerhörter Prägnanz zu Geltung kommen. ... Wie Ruven es vermag, die Farben der Klänge zu sehen, so instrumentiert auch Svenja Leiber den Text ihres Erinnerungsbuches.«<br /><em>Stefan Kister, Stuttgarter Zeitung 04.04.2014</em></p>]]></d104>
+    </othertext>
+    <othertext>
+      <d102>08</d102>
+      <d103>02</d103>
+      <d104><![CDATA[<p>»Ein eindrucksvoller, ein bedrängender Roman, der einen noch über das Lesen hinaus ins eigene Leben hinein begleitet oder eher verfolgt.«<br /><em>Gabriele von Arnim, Deutschlandradio Kultur 16.04.2014</em></p>]]></d104>
+    </othertext>
+    <othertext>
+      <d102>08</d102>
+      <d103>02</d103>
+      <d104><![CDATA[<p>»In <em>Das letzte Land</em> schafft Svenja Leiber ein anschauliches Zeitpanorama – in entscheidenden Momenten versagt ihre Hauptfigur ebenso wie die deutsche Gesellschaft.«<br /><em>Thomas Andre, Spiegel Online 17.04.2014</em></p>]]></d104>
+    </othertext>
+    <othertext>
+      <d102>08</d102>
+      <d103>02</d103>
+      <d104><![CDATA[<p>»Die Geschichte des Ausnahmemusikers Ruven umfasst fast die gesamte deutsche Historie im 20. Jahrhundert. ... Leiber ist eine dieser Autorinnen, die immer unter dem Radar fliegen und trotzdem immer tolle Bücher vorlegen.«<br /><em>zitty Berlin 06/2014</em></p>]]></d104>
+    </othertext>
+    <othertext>
+      <d102>08</d102>
+      <d103>02</d103>
+      <d104><![CDATA[<p>»Svenja Leiber hat einen Blick für Menschen, die schwerlich einen Platz im Leben und ein Auskommen mit sich finden können und die kaum über eine Stimme verfügen, um sich bemerkbar zu machen. Die Stimme verleiht Leiber ihnen durch ihre Bücher. Genauso wie sie Landschafen, die eigentlich trostlos sind, ein beinahe magisches Antlitz zu verleihen versteht.«<br /><em>Wiebke Porombka, Deutschlandfunk 12.05.2014</em></p>]]></d104>
+    </othertext>
+    <othertext>
+      <d102>08</d102>
+      <d103>02</d103>
+      <d104><![CDATA[<p>»<em>Das letzte Land</em> von Svenja Leiber ist ein Bildungsroman im besten Sinne, ein erzählerisches Plädoyer für die Eigenschaft der Kunst, Widerstandskräfte freizusetzen und zu einem Kompass zu werden, allen Gefährdungen zum Trotz.«<br /><em>Sabine Zaplin, Bayerischer Rundfunk 21.05.2014</em></p>]]></d104>
+    </othertext>
+    <othertext>
+      <d102>08</d102>
+      <d103>02</d103>
+      <d104><![CDATA[<p>»Trotzdem ist Das letzte Land ein spannendes Buch, das man einen Bildungsroman, einen Künstlerroman nennen könnte oder ein Panorama eines Jahrhunderts, all das. Vor allem aber ein Buch darüber, was es heißt, zu sehen, wie die eigenen Wünsche nicht erfiillt werden können.«<br /><em>Margarete Stokowski, Die Welt 14.06.2014</em></p>]]></d104>
+    </othertext>
+    <mediafile>
+      <f114>01</f114>
+      <f116>06</f116>
+      <f117>9783518736692.epub</f117>
+    </mediafile>
+    <publisher>
+      <b291>01</b291>
+      <b241>04</b241>
+      <b243>16329</b243>
+      <b081>Suhrkamp Verlag</b081>
+    </publisher>
+    <publisher>
+      <b291>01</b291>
+      <b241>05</b241>
+      <b243>5109046</b243>
+      <b081>Suhrkamp Verlag</b081>
+    </publisher>
+    <b209>Berlin</b209>
+    <b083>DE</b083>
+    <b003>20140310</b003>
+    <relatedproduct>
+      <h208>13</h208>
+      <productidentifier>
+        <b221>15</b221>
+        <b244>9783518465769</b244>
+      </productidentifier>
+    </relatedproduct>
+    <supplydetail>
+      <j137>Suhrkamp Verlag / Insel Verlag</j137>
+      <website>
+        <b295>http://www.suhrkamp.de/handel_184.html</b295>
+      </website>
+      <j292>01</j292>
+      <j141>IP</j141>
+      <j396>20</j396>
+    <j143>20140310</j143>
+      <price>
+        <j148>04</j148>
+        <j151>16.99</j151>
+        <j152>EUR</j152>
+        <b251>DE</b251>
+        <j153>S</j153>
+        <j162>20150301</j162>
+      </price>
+      <price>
+        <j148>04</j148>
+        <j151>16.99</j151>
+        <j152>EUR</j152>
+        <b251>AT</b251>
+        <j153>S</j153>
+        <j162>20150301</j162>
+      </price>
+      <price>
+        <j148>02</j148>
+        <j151>21.00</j151>
+        <j152>CHF</j152>
+        <b251>CH</b251>
+        <j153>S</j153>
+        <j162>20150301</j162>
+      </price>
+      <price>
+        <j148>42</j148>
+        <j151>16.99</j151>
+        <j152>EUR</j152>
+        <b251>DE AT CH FR GB LI LU</b251>
+        <j153>S</j153>
+        <j162>20150301</j162>
+      </price>
+      <price>
+        <j148>42</j148>
+        <j151>21.00</j151>
+        <j152>CHF</j152>
+        <b251>CH</b251>
+        <j153>S</j153>
+      </price>
+      <price>
+        <j148>04</j148>
+        <j151>9.99</j151>
+        <j152>EUR</j152>
+        <b251>DE</b251>
+        <j153>S</j153>
+        <j161>20150302</j161>
+      </price>
+      <price>
+        <j148>04</j148>
+        <j151>9.99</j151>
+        <j152>EUR</j152>
+        <b251>AT</b251>
+        <j153>S</j153>
+        <j161>20150302</j161>
+      </price>
+      <price>
+        <j148>02</j148>
+        <j151>12.00</j151>
+        <j152>CHF</j152>
+        <b251>CH</b251>
+        <j153>S</j153>
+        <j161>20150302</j161>
+      </price>
+    </supplydetail>
+  </product>
+
+  <!-- PRODUCT No.3 -->
+  <product>
+    <a001>sv1978-3-518-73700-2</a001>
+    <a002>03</a002>
+    <productidentifier>
+      <b221>03</b221>
+      <b244>9783518737002</b244>
+    </productidentifier>
+    <productidentifier>
+      <b221>15</b221>
+      <b244>9783518737002</b244>
+    </productidentifier>
+    <b012>DG</b012>
+    <b211>029</b211>
+    <b212>2.0</b212>
+    <b277>03</b277>
+    <title>
+      <b202>01</b202>
+      <b203>Vergeltung</b203>
+    </title>
+    <title>
+      <b202>03</b202>
+      <b203>Vengeance</b203>
+    </title>
+    <contributor>
+      <b035>B06</b035>
+      <b340>1</b340>
+      <b036>Conny Lösch</b036>
+      <b037>Lösch, Conny</b037>
+      <b039>Conny</b039>
+      <b040>Lösch</b040>
+    <website>
+      <b295>http://www.suhrkamp.de/autoren/autor.cfm?id=7603</b295>
+    </website>
+    </contributor>
+    <contributor>
+      <b035>A01</b035>
+      <b340>1</b340>
+      <b036>Don Winslow</b036>
+      <b037>Winslow, Don</b037>
+      <b039>Don</b039>
+      <b040>Winslow</b040>
+      <b044 textformat="02"><![CDATA[<p>Don Winslow wurde 1953 in der Nacht zu Halloween in New York geboren. Seine Kindheit und Jugend verbrachte er in South Kingstown, Rhode Island, einer Kleinstadt am Atlantik. Sein Vater, der ihm Geschichten von seiner Zeit bei der Marine erz&auml;hlte, befl&uuml;gelte seine Fantasie und erweckte in ihm den Wunsch, eines Tages Schriftsteller zu werden.</p>
+<p>Schon fr&uuml;h kam Winslow mit den Themen und Figuren in Ber&uuml;hrung, die sp&auml;ter eine so prominente Rolle in seinen B&uuml;chern spielen sollten. Einige Mafiagr&ouml;&szlig;en des Patriarca-Syndikats lebten in seiner Nachbarschaft, und seine eigene Gro&szlig;mutter arbeitete Ende der 60er f&uuml;r den ber&uuml;chtigten Mafiaboss Carlos Marcello, den mutma&szlig;lichen Drahtzieher des Kennedy-Attentats, der den sp&auml;teren Autor mehrere Male zu sich einlud.</p>
+<p>Nach seinem Schulabschluss kehrte Don Winslow in seine Geburtsstadt New York zur&uuml;ck. Bevor er mit dem Schreiben begann, verdiente er sein Geld unter anderem als Kinobetreiber, als Fremdenf&uuml;hrer auf afrikanischen Safaris und chinesischen Teerouten, als Unternehmensberater und immer wieder als Privatdetektiv.</p>
+<p>Auch als Schriftsteller ist Don Winslow unerm&uuml;dlich. Jeden Morgen um f&uuml;nf setzt er sich an den Schreibtisch. Mittags l&auml;uft er sieben Meilen, in Gedanken immer noch bei seinen Figuren, um dann am Nachmittag weiterzuarbeiten. Dabei schreibt er mindestens an zwei B&uuml;chern gleichzeitig. Schreibblockaden kennt er nicht, im Gegenteil: Winslow sagt von sich, dass er bislang nur f&uuml;nf Tage durchgehalten habe, ohne zu schreiben. Es ist eine Sucht, die bis heute ein Werk hervorgebracht hat, dessen Qualit&auml;t, Vielseitigkeit und Spannung Don Winslow zu einem der ganz Gro&szlig;en des zeitgen&ouml;ssischen Krimis machen.</p>
+<p>Don Winslow wurde vielfach ausgezeichnet, u.a. mit dem Deutschen Krimi Preis (International) 2011 f&uuml;r <em>Tage der Toten</em>. F&uuml;r die <em>New York Times</em> z&auml;hlt Don Winslow zu einem der ganz Gro&szlig;en amerikanischen Krimi-Autoren.</p>]]></b044>
+    <website>
+      <b295>http://www.suhrkamp.de/autoren/autor.cfm?id=7604</b295>
+    </website>
+    </contributor>
+    <b057>1</b057>
+    <language>
+      <b253>01</b253>
+      <b252>ger</b252>
+    </language>
+    <language>
+      <b253>02</b253>
+      <b252>eng</b252>
+    </language>
+    <b061>350</b061>
+    <b255>350</b255>
+    <mainsubject>
+      <b191>26</b191>
+      <b068>2.0</b068>
+      <b069>9120</b069>
+    </mainsubject>
+    <othertext>
+      <d102>01</d102>
+      <d103>06</d103>
+      <d104>Dave Collins ist Elite-Soldat. –– Seine Familie stirbt bei einem Anschlag. –– Seine Regierung unternimmt nichts. –– ZEIT FÜR VERGELTUNG.
+
+Dave Collins ist ein hochdekorierter Ex-Soldat und Sicherheitschef des JFK-Flughafens. Als Terroristen ein Flugzeug über New York zum Absturz bringen, sterben seine Frau und sein Sohn. Dave Collins fordert Vergeltung, doch die US-Regierung handelt nicht. Also nimmt er die Sache selbst in die Hand.
+
+Er stellt eine internationale Söldnertruppe zusammen. Die Besten der Besten. Mit ihnen macht er weltweit Jagd auf die Verantwortlichen des Attentats. Doch nicht nur die Terroristen leisten Widerstand. Auch die US-Regierung unternimmt alles, um Dave aufzuhalten. Währenddessen plant Aziz, der Kopf der Terrorgruppe, einen neuen Anschlag. Er soll alles bisher Dagewesene in den Schatten stellen. Noch fehlen ihm die Mittel, doch er ist auf dem besten Weg, sie zu bekommen. Wenn Dave und seine Truppe versagen, droht den USA das absolute Inferno. -- »Vergeltung« ist der erste Roman von Don Winslow, der weltweit zuerst auf Deutsch erscheint.</d104>
+    </othertext>
+    <othertext>
+      <d102>13</d102>
+      <d103>02</d103>
+      <d104><![CDATA[<p>Don Winslow wurde 1953 in der Nacht zu Halloween in New York geboren. Seine Kindheit und Jugend verbrachte er in South Kingstown, Rhode Island, einer Kleinstadt am Atlantik. Sein Vater, der ihm Geschichten von seiner Zeit bei der Marine erz&auml;hlte, befl&uuml;gelte seine Fantasie und erweckte in ihm den Wunsch, eines Tages Schriftsteller zu werden.</p>
+<p>Schon fr&uuml;h kam Winslow mit den Themen und Figuren in Ber&uuml;hrung, die sp&auml;ter eine so prominente Rolle in seinen B&uuml;chern spielen sollten. Einige Mafiagr&ouml;&szlig;en des Patriarca-Syndikats lebten in seiner Nachbarschaft, und seine eigene Gro&szlig;mutter arbeitete Ende der 60er f&uuml;r den ber&uuml;chtigten Mafiaboss Carlos Marcello, den mutma&szlig;lichen Drahtzieher des Kennedy-Attentats, der den sp&auml;teren Autor mehrere Male zu sich einlud.</p>
+<p>Nach seinem Schulabschluss kehrte Don Winslow in seine Geburtsstadt New York zur&uuml;ck. Bevor er mit dem Schreiben begann, verdiente er sein Geld unter anderem als Kinobetreiber, als Fremdenf&uuml;hrer auf afrikanischen Safaris und chinesischen Teerouten, als Unternehmensberater und immer wieder als Privatdetektiv.</p>
+<p>Auch als Schriftsteller ist Don Winslow unerm&uuml;dlich. Jeden Morgen um f&uuml;nf setzt er sich an den Schreibtisch. Mittags l&auml;uft er sieben Meilen, in Gedanken immer noch bei seinen Figuren, um dann am Nachmittag weiterzuarbeiten. Dabei schreibt er mindestens an zwei B&uuml;chern gleichzeitig. Schreibblockaden kennt er nicht, im Gegenteil: Winslow sagt von sich, dass er bislang nur f&uuml;nf Tage durchgehalten habe, ohne zu schreiben. Es ist eine Sucht, die bis heute ein Werk hervorgebracht hat, dessen Qualit&auml;t, Vielseitigkeit und Spannung Don Winslow zu einem der ganz Gro&szlig;en des zeitgen&ouml;ssischen Krimis machen.</p>
+<p>Don Winslow wurde vielfach ausgezeichnet, u.a. mit dem Deutschen Krimi Preis (International) 2011 f&uuml;r <em>Tage der Toten</em>. F&uuml;r die <em>New York Times</em> z&auml;hlt Don Winslow zu einem der ganz Gro&szlig;en amerikanischen Krimi-Autoren.</p>
+
+]]></d104>
+    </othertext>
+    <othertext>
+      <d102>99</d102>
+      <d104>DE</d104>
+    </othertext>
+    <othertext>
+      <d102>08</d102>
+      <d103>02</d103>
+      <d104><![CDATA[<p>»Bei dieser Lektüre spannen sich unwillkürlich die Sixpacks unter der Bauchdecke an. Das ist eine ganz neue Form der Suhrkamp-Kultur, und sie fühlt sich gut an. Schließlich ist Winslow viel zu intelligent, als dass er nur der Haudrauf-Ästhetik huldigt und seine Rambos ein paar Nachwuchsscheichs abmurksen lässt.«<br /><em>Werner Bartens, Süddeutsche Zeitung  17.02.2014</em></p>]]></d104>
+    </othertext>
+    <othertext>
+      <d102>08</d102>
+      <d103>02</d103>
+      <d104><![CDATA[<p><em>&raquo;Vergeltung </em>ist ein stark konstruiertes Meisterwerk des Thriller-Genres.&laquo;<br /><em>Maria Ossowski, NDR Kultur</em></p>]]></d104>
+    </othertext>
+    <othertext>
+      <d102>08</d102>
+      <d103>02</d103>
+      <d104><![CDATA[<p>»Seit <em>American Psycho</em> ist der Thriller <em>Vergeltung </em>die brutalste Satire auf den westlichen Lifestyle. Ein Schocker, der bis zur letzten Seite fesselt und moralisch entrüstet.«<br /><em>Sat.1 Frühstücksfernsehen</em></p>]]></d104>
+    </othertext>
+    <othertext>
+      <d102>08</d102>
+      <d103>02</d103>
+      <d104><![CDATA[<p>»Ein richtiger, packender Thriller.«<br /><em>Denis Scheck, Druckfrisch</em></p>]]></d104>
+    </othertext>
+    <othertext>
+      <d102>08</d102>
+      <d103>02</d103>
+      <d104><![CDATA[<p>&raquo;Wie immer bei Winslow geht es &uuml;beraus brutal zu, wie immer ist der Roman von irrsinniger Spannung.&laquo;<br /><em>Morgenpost am Sonntag 02.02.2014</em></p>]]></d104>
+    </othertext>
+    <othertext>
+      <d102>08</d102>
+      <d103>02</d103>
+      <d104><![CDATA[<p>»Don Winslow zeigt, was Gewalt mit Menschen macht, wie Krieg und Folter sich in Gehirnen festsetzen, wie sie Menschen verändern und ganze Gesellschaften. Die Welt nach dem 11. September, Krieg, Folter, Gewalt, Trauma, Ohnmacht, Rache - das alles hat Don Winslow in einen beeindruckenden Thriller verwoben.«<br /><em>Sabine Schmidt, Börsenblatt 4/2014</em></p>]]></d104>
+    </othertext>
+    <othertext>
+      <d102>08</d102>
+      <d103>02</d103>
+      <d104><![CDATA[<p>»Konzentriert, konsequent, knallhart. Mit <em>Vergeltung </em>ist Don Winslow nicht nur ein extrem moderner, rasend schneller Thriller gelungen, sondern auch ein hoch politischer Roman, der den Leser subtil dazu auffordert, sich der moralischen Ambivalenz unserer Zeit zu stellen.«<br /><em>Marcus Müntefering, SPIEGEL ONLINE 20.01.2014</em></p>]]></d104>
+    </othertext>
+    <othertext>
+      <d102>08</d102>
+      <d103>02</d103>
+      <d104><![CDATA[<p>»Don Winslows Literatur ist hart und böse und präzise.«<br /><em>Berliner Morgenpost</em></p>]]></d104>
+    </othertext>
+    <othertext>
+      <d102>08</d102>
+      <d103>02</d103>
+      <d104><![CDATA[<p>»Der beste Thrillerautor unserer Tage.«<br /><em>DIE WELT am Sonntag</em></p>]]></d104>
+    </othertext>
+    <mediafile>
+      <f114>01</f114>
+      <f116>06</f116>
+      <f117>9783518737002.epub</f117>
+    </mediafile>
+    <publisher>
+      <b291>01</b291>
+      <b241>04</b241>
+      <b243>16329</b243>
+      <b081>Suhrkamp Verlag</b081>
+    </publisher>
+    <publisher>
+      <b291>01</b291>
+      <b241>05</b241>
+      <b243>5109046</b243>
+      <b081>Suhrkamp Verlag</b081>
+    </publisher>
+    <b209>Berlin</b209>
+    <b083>DE</b083>
+    <b003>20140120</b003>
+    <relatedproduct>
+      <h208>13</h208>
+      <productidentifier>
+        <b221>15</b221>
+        <b244>9783518465004</b244>
+      </productidentifier>
+    </relatedproduct>
+    <supplydetail>
+      <j137>Suhrkamp Verlag / Insel Verlag</j137>
+      <website>
+        <b295>http://www.suhrkamp.de/handel_184.html</b295>
+      </website>
+      <j292>01</j292>
+      <j141>IP</j141>
+      <j396>20</j396>
+    <j143>20140120</j143>
+      <price>
+        <j148>04</j148>
+        <j151>12.99</j151>
+        <j152>EUR</j152>
+        <b251>DE</b251>
+        <j153>S</j153>
+        <j162>20150301</j162>
+      </price>
+      <price>
+        <j148>04</j148>
+        <j151>12.99</j151>
+        <j152>EUR</j152>
+        <b251>AT</b251>
+        <j153>S</j153>
+        <j162>20150301</j162>
+      </price>
+      <price>
+        <j148>02</j148>
+        <j151>16.00</j151>
+        <j152>CHF</j152>
+        <b251>CH</b251>
+        <j153>S</j153>
+        <j162>20150301</j162>
+      </price>
+      <price>
+        <j148>42</j148>
+        <j151>12.99</j151>
+        <j152>EUR</j152>
+        <b251>DE AT CH FR GB LI LU</b251>
+        <j153>S</j153>
+        <j162>20150301</j162>
+      </price>
+      <price>
+        <j148>42</j148>
+        <j151>16.00</j151>
+        <j152>CHF</j152>
+        <b251>CH</b251>
+        <j153>S</j153>
+      </price>
+      <price>
+        <j148>04</j148>
+        <j151>9.99</j151>
+        <j152>EUR</j152>
+        <b251>DE</b251>
+        <j153>S</j153>
+        <j161>20150302</j161>
+      </price>
+      <price>
+        <j148>04</j148>
+        <j151>9.99</j151>
+        <j152>EUR</j152>
+        <b251>AT</b251>
+        <j153>S</j153>
+        <j161>20150302</j161>
+      </price>
+      <price>
+        <j148>02</j148>
+        <j151>12.00</j151>
+        <j152>CHF</j152>
+        <b251>CH</b251>
+        <j153>S</j153>
+        <j161>20150302</j161>
+      </price>
+    </supplydetail>
+  </product>
+
+  <!-- PRODUCT No.4 -->
+  <product>
+    <a001>sv1978-3-518-73723-1</a001>
+    <a002>03</a002>
+    <productidentifier>
+      <b221>03</b221>
+      <b244>9783518737231</b244>
+    </productidentifier>
+    <productidentifier>
+      <b221>15</b221>
+      <b244>9783518737231</b244>
+    </productidentifier>
+    <b012>DG</b012>
+    <b211>029</b211>
+    <b212>2.0</b212>
+    <b277>03</b277>
+    <title>
+      <b202>01</b202>
+      <b203>Die Sirenen von Belfast</b203>
+      <b029>Roman</b029>
+    </title>
+    <title>
+      <b202>03</b202>
+      <b203>I hear the Sirens in the Street</b203>
+    </title>
+    <contributor>
+      <b035>A01</b035>
+      <b340>1</b340>
+      <b036>Adrian McKinty</b036>
+      <b037>McKinty, Adrian</b037>
+      <b039>Adrian</b039>
+      <b040>McKinty</b040>
+      <b044 textformat="02"><![CDATA[<p>Adrian McKinty, geboren 1968 in Belfast, zählt zu den wichtigsten nordirischen Krimiautoren. Nach einem Philosophiestudium an der Oxford University verschlug es ihn nach New York und Denver, wo er verschiedenste Jobs annahm, vom Barkeeper bis zum Rugbycoach. Heute lebt der preisgekrönte Autor und Journalist mit seiner Familie in Melbourne, Australien.</p>]]></b044>
+    <website>
+      <b295>http://www.suhrkamp.de/autoren/autor.cfm?id=8060</b295>
+    </website>
+    </contributor>
+    <b057>1</b057>
+    <language>
+      <b253>01</b253>
+      <b252>ger</b252>
+    </language>
+    <b061>400</b061>
+    <b255>400</b255>
+    <mainsubject>
+      <b191>26</b191>
+      <b068>2.0</b068>
+      <b069>9121</b069>
+    </mainsubject>
+    <mainsubject>
+      <b191>93</b191>
+      <b068>1.0</b068>
+      <b069>FF</b069>
+    </mainsubject>
+    <subject>
+      <b067>94</b067>
+      <b068>1.0</b068>
+      <b069>1DDU-GB-N</b069>
+    </subject>
+    <othertext>
+      <d102>01</d102>
+      <d103>06</d103>
+      <d104>Der prüfende Blick unter den Wagen gehört zu Sean Duffys Morgenritual. Im Nordirlandkonflikt stehen Autobombenanschläge auf der Tagesordnung, und als katholischer Bulle ist er die perfekte Zielscheibe der IRA. Als er und sein Kollege McCrabban auf einem verlassenen Firmengelände in Belfast einen tiefgekühlten Torso finden, ist für ihre Vorgesetzten die Sache klar: Der Konflikt hat ein weiteres Todesopfer gefordert. Wie immer glaubt Duffy nicht an einfache Lösungen und gräbt tiefer. Eine heiße Spur führt ihn in die USA, doch als sich in Nordirland die Lage zuspitzt, wird Duffy plötzlich das wahre Ausmaß des Falles klar …
+
+Ein Torso in einem Koffer, ein tätowierter Hautfetzen und eine teuflisch schöne Witwe – Detective Sergeant Sean Duffy ist zurück mit einem Fall, der ihn tief in die Wirren des Nordirlandkonflikts zieht. Er stößt auf skrupellose Geldgeschäfte und familiäre Abgründe. Bald schon wird er selbst Opfer seiner Ermittlungen.</d104>
+    </othertext>
+    <othertext>
+      <d102>13</d102>
+      <d103>02</d103>
+      <d104><![CDATA[<p>Adrian McKinty, geboren 1968 in Belfast, zählt zu den wichtigsten nordirischen Krimiautoren. Nach einem Philosophiestudium an der Oxford University verschlug es ihn nach New York und Denver, wo er verschiedenste Jobs annahm, vom Barkeeper bis zum Rugbycoach. Heute lebt der preisgekrönte Autor und Journalist mit seiner Familie in Melbourne, Australien.</p>
+
+]]></d104>
+    </othertext>
+    <othertext>
+      <d102>99</d102>
+      <d104>DE</d104>
+    </othertext>
+    <othertext>
+      <d102>08</d102>
+      <d103>02</d103>
+      <d104><![CDATA[<p>»Knackige Dialoge, eine rasant-tödliche Handlung und bissiger Belfasthumor.«<br /><em>Booklist</em></p>]]></d104>
+    </othertext>
+    <othertext>
+      <d102>08</d102>
+      <d103>02</d103>
+      <d104><![CDATA[<p>»Eine Geisterbahnfahrt der besonderen Art. Hart und blutig. Und nur was für Erwachsene. Am Ende möchte man doch gleich wieder rein.«<br /><em>Elmar Krekeler, DIE WELT 23.05.2014</em></p>]]></d104>
+    </othertext>
+    <othertext>
+      <d102>08</d102>
+      <d103>02</d103>
+      <d104><![CDATA[<p>»Dies ist nicht nur ein Thriller nach allen Regeln der Kunst, sondern auch ein politisches Aufklärungsbuch.«<br /><em>Jochen Vogt, derwesten.de 07.07.2014</em></p>]]></d104>
+    </othertext>
+    <othertext>
+      <d102>08</d102>
+      <d103>02</d103>
+      <d104><![CDATA[<p>»Autor Adrian McKinty erweist sich mit <em>Die Sirenen von Belfast</em> erneut als Meister der Hard-boiled-Literatur.«<br /><em>Christoph Rieke, n-tv.de 20.07.2014</em></p>]]></d104>
+    </othertext>
+    <othertext>
+      <d102>08</d102>
+      <d103>02</d103>
+      <d104><![CDATA[<p>»Es ist ein wahres Lesevergnügen, Duffy bei seinen Ermittlungen begleiten zu dürfen. Denn McKinty ist ein begnadeter Erzähler, der immer noch von Buch zu Buch besser wird.«<br /><em>DiePresse.com 19.07.2014</em></p>]]></d104>
+    </othertext>
+    <othertext>
+      <d102>08</d102>
+      <d103>02</d103>
+      <d104><![CDATA[<p>»Wer sich für den Nordirlandkonflikt interessiert, wird um diese kurzweilig erzählte, spannende Mischung aus Politthriller und Zeitgeschichte nicht herum kommen. Auf weitere Bücher dieses interessanten Autors warten wir daher mit Spannung.«<br /><em>Jörg Kijanski, krimi-couch.de August 2014</em></p>]]></d104>
+    </othertext>
+    <othertext>
+      <d102>08</d102>
+      <d103>02</d103>
+      <d104><![CDATA[<p>»Adrian McKinty hat literarische Ambitionen, wie schön – und gelungen.«<br /><em>Sylvia Staude, Frankfurter Rundschau 05.09.2014</em></p>]]></d104>
+    </othertext>
+    <othertext>
+      <d102>08</d102>
+      <d103>02</d103>
+      <d104><![CDATA[<p>&raquo;Ein glaubw&uuml;rdiger Plot, tolle Charaktere und herrlich lakonische Dialoge.&laquo;<br /><em>stern 18.09.2014</em></p>]]></d104>
+    </othertext>
+    <othertext>
+      <d102>08</d102>
+      <d103>02</d103>
+      <d104><![CDATA[<p>&raquo;Ein packender Ermittlerroman mit starker Story &hellip; Atmosph&auml;risch unentrinnbar dicht erz&auml;hlt.&laquo;<br /><em>Udo Feist, WDR 2 15.12.2014</em></p>]]></d104>
+    </othertext>
+    <mediafile>
+      <f114>01</f114>
+      <f116>06</f116>
+      <f117>9783518737231.epub</f117>
+    </mediafile>
+    <publisher>
+      <b291>01</b291>
+      <b241>04</b241>
+      <b243>16329</b243>
+      <b081>Suhrkamp Verlag</b081>
+    </publisher>
+    <publisher>
+      <b291>01</b291>
+      <b241>05</b241>
+      <b243>5109046</b243>
+      <b081>Suhrkamp Verlag</b081>
+    </publisher>
+    <b209>Berlin</b209>
+    <b083>DE</b083>
+    <b003>20140519</b003>
+    <relatedproduct>
+      <h208>13</h208>
+      <productidentifier>
+        <b221>15</b221>
+        <b244>9783518466124</b244>
+      </productidentifier>
+    </relatedproduct>
+    <supplydetail>
+      <j137>Suhrkamp Verlag / Insel Verlag</j137>
+      <website>
+        <b295>http://www.suhrkamp.de/handel_184.html</b295>
+      </website>
+      <j292>01</j292>
+      <j141>IP</j141>
+      <j396>20</j396>
+    <j143>20140519</j143>
+      <price>
+        <j148>04</j148>
+        <j151>16.99</j151>
+        <j152>EUR</j152>
+        <b251>DE</b251>
+        <j153>S</j153>
+        <j162>20150301</j162>
+      </price>
+      <price>
+        <j148>04</j148>
+        <j151>16.99</j151>
+        <j152>EUR</j152>
+        <b251>AT</b251>
+        <j153>S</j153>
+        <j162>20150301</j162>
+      </price>
+      <price>
+        <j148>02</j148>
+        <j151>21.00</j151>
+        <j152>CHF</j152>
+        <b251>CH</b251>
+        <j153>S</j153>
+        <j162>20150301</j162>
+      </price>
+      <price>
+        <j148>42</j148>
+        <j151>16.99</j151>
+        <j152>EUR</j152>
+        <b251>DE AT CH FR GB LI LU</b251>
+        <j153>S</j153>
+        <j162>20150301</j162>
+      </price>
+      <price>
+        <j148>42</j148>
+        <j151>21.00</j151>
+        <j152>CHF</j152>
+        <b251>CH</b251>
+        <j153>S</j153>
+      </price>
+      <price>
+        <j148>04</j148>
+        <j151>9.99</j151>
+        <j152>EUR</j152>
+        <b251>DE</b251>
+        <j153>S</j153>
+        <j161>20150302</j161>
+      </price>
+      <price>
+        <j148>04</j148>
+        <j151>9.99</j151>
+        <j152>EUR</j152>
+        <b251>AT</b251>
+        <j153>S</j153>
+        <j161>20150302</j161>
+      </price>
+      <price>
+        <j148>02</j148>
+        <j151>12.00</j151>
+        <j152>CHF</j152>
+        <b251>CH</b251>
+        <j153>S</j153>
+        <j161>20150302</j161>
+      </price>
+    </supplydetail>
+  </product>
+
+  <!-- PRODUCT No.5 -->
+  <product>
+    <a001>sv1978-3-518-76020-8</a001>
+    <a002>03</a002>
+    <productidentifier>
+      <b221>03</b221>
+      <b244>9783518760208</b244>
+    </productidentifier>
+    <productidentifier>
+      <b221>15</b221>
+      <b244>9783518760208</b244>
+    </productidentifier>
+    <b012>DG</b012>
+    <b211>029</b211>
+    <b212>2.0</b212>
+    <b277>03</b277>
+    <title>
+      <b202>01</b202>
+      <b203>Alte Meister</b203>
+      <b029>Graphic Novel</b029>
+    </title>
+    <contributor>
+      <b035>A01</b035>
+      <b340>1</b340>
+      <b036>Thomas Bernhard</b036>
+      <b037>Bernhard, Thomas</b037>
+      <b039>Thomas</b039>
+      <b040>Bernhard</b040>
+      <b044 textformat="02"><![CDATA[<p>Thomas Bernhard, 1931 in Heerlen (Niederlande) geboren, starb im Februar 1989 in Gmunden (Oberösterreich). Er zählt zu den bedeutendsten österreichischen Schriftstellern und wurde unter anderem 1970 mit dem Georg-Büchner-Preis und 1972 mit dem Grimme-Preis ausgezeichnet. Der Suhrkamp Verlag publiziert eine Werkausgabe in 22 Bänden.</p>]]></b044>
+    <website>
+      <b295>http://www.suhrkamp.de/autoren/autor.cfm?id=340</b295>
+    </website>
+    </contributor>
+    <contributor>
+      <b035>B01</b035>
+      <b340>1</b340>
+      <b036>Andreas Platthaus</b036>
+      <b037>Platthaus, Andreas</b037>
+      <b039>Andreas</b039>
+      <b040>Platthaus</b040>
+    <website>
+      <b295>http://www.suhrkamp.de/autoren/autor.cfm?id=3750</b295>
+    </website>
+    </contributor>
+    <contributor>
+      <b035>A12</b035>
+      <b340>1</b340>
+      <b036>Nicolas Mahler</b036>
+      <b037>Mahler, Nicolas</b037>
+      <b039>Nicolas</b039>
+      <b040>Mahler</b040>
+      <b044 textformat="02"><![CDATA[<p>Nicolas Mahler, geboren 1969, lebt und arbeitet als Comiczeichner und Illustrator in Wien. Seine Comics und Cartoons erscheinen in Zeitungen und Magazinen wie <em>Die Zeit</em>,<em> NZZ am Sonntag</em>,<em> Frankfurter Allgemeine Sonntagszeitung</em> und in der <em>Titanic</em>. Für sein umfangreiches Werk wurde er bereits mehrfach ausgezeichnet; zuletzt erhielt er den Max-und Moritz-Preis als »Bester deutschsprachiger Comic-Künstler«.</p>]]></b044>
+    <website>
+      <b295>http://www.suhrkamp.de/autoren/autor.cfm?id=8478</b295>
+    </website>
+    </contributor>
+    <b057>1</b057>
+    <language>
+      <b253>01</b253>
+      <b252>ger</b252>
+    </language>
+    <b061>158</b061>
+    <b255>158</b255>
+    <mainsubject>
+      <b191>26</b191>
+      <b068>2.0</b068>
+      <b069>9181</b069>
+    </mainsubject>
+    <mainsubject>
+      <b191>93</b191>
+      <b068>1.0</b068>
+      <b069>XQB</b069>
+    </mainsubject>
+    <othertext>
+      <d102>01</d102>
+      <d103>06</d103>
+      <d104>Im Wiener Kunsthistorischen Museum, auf der Sitzbank gegenüber von Tintorettos »Weißbärtigem Mann«, bezieht jeden zweiten Vormittag – außer an den eintrittsfreien Samstagen – der Musikphilosoph Reger Stellung. Eines Tages wird die Routine unterbrochen: Reger bittet seinen Freund Atzbacher, sich ausgerechnet am Samstag mit ihm im Museum zu treffen. Doch bevor der Grund für dieses ungewöhnliche Verhalten enthüllt wird, ergeht sich Reger in herrlich schwungvollen Tiraden gegen die Kunst im allgemeinen, die Maler im besonderen, verdammt Stifter ebenso wie Heidegger, beschimpft Wien und die Wiener – und weiß doch, daß die einzige Rettung im menschlichen Gegenüber zu finden ist, im »Lebensmenschen« in seinem Fall.</d104>
+    </othertext>
+    <othertext>
+      <d102>13</d102>
+      <d103>02</d103>
+      <d104><![CDATA[<p>Thomas Bernhard, 1931 in Heerlen (Niederlande) geboren, starb im Februar 1989 in Gmunden (Oberösterreich). Er zählt zu den bedeutendsten österreichischen Schriftstellern und wurde unter anderem 1970 mit dem Georg-Büchner-Preis und 1972 mit dem Grimme-Preis ausgezeichnet. Der Suhrkamp Verlag publiziert eine Werkausgabe in 22 Bänden.</p>
+
+<p>Nicolas Mahler, geboren 1969, lebt und arbeitet als Comiczeichner und Illustrator in Wien. Seine Comics und Cartoons erscheinen in Zeitungen und Magazinen wie <em>Die Zeit</em>,<em> NZZ am Sonntag</em>,<em> Frankfurter Allgemeine Sonntagszeitung</em> und in der <em>Titanic</em>. Für sein umfangreiches Werk wurde er bereits mehrfach ausgezeichnet; zuletzt erhielt er den Max-und Moritz-Preis als »Bester deutschsprachiger Comic-Künstler«.</p>
+
+]]></d104>
+    </othertext>
+    <othertext>
+      <d102>99</d102>
+      <d104>DE</d104>
+    </othertext>
+    <othertext>
+      <d102>08</d102>
+      <d103>02</d103>
+      <d104><![CDATA[<p>»Bernhard literarisches Verfahren besteht aus solchen Spracheskalationen, einer atemlosen, rauschhaften Abfolge von Variationen, einer über viele Etappen gehenden Steigerung, die in maßloser Übertreibung mündet. … Nicolas Mahlers sehr zurückgenommener Strich veranschaulicht dies besonders gut. ... In jedem Fall hat Mahler mit seinem Comic nicht einfach nur ... einen Klassiker illustriert, sondern eine eigenständige und weiterführende Interpretation geliefert.«<br /><em>Christian Schlüter, Frankfurter Rundschau 12.11.2011</em></p>]]></d104>
+    </othertext>
+    <othertext>
+      <d102>08</d102>
+      <d103>02</d103>
+      <d104><![CDATA[<p>»Winzig ist Reger, schwarz, ohne Mund, ohne Augen. Nur Gelb bringt kostbare Farbe in die Geschichte. Bernhard wurde gekürzt, umgestellt. Die Reduktion macht das Werk fast noch größer. Humor und Tragik verdoppeln sich. Der neue Rhythmus öffnet verborgene Türen.«<br /><em>Peter Pisa, Kurier, Wien 16.11.2011</em></p>]]></d104>
+    </othertext>
+    <othertext>
+      <d102>08</d102>
+      <d103>02</d103>
+      <d104><![CDATA[<p>»Aber wie will man ausgerechnet mit einer ›Graphic Novel‹ – wie es so schön heißt – diese ungehemmte Suada, diese ratternde, saukomische und zugleich tieftraurige Bernhardsche Sprachmaschine, die sich auf 300 Seiten absatzlos breitmacht, mit ein paar Strichen bändigen? Der Wiener Cartoonzeichner Nicolas Mahler hat es … gewagt, und es ist ihm, um es vorwegzunehmen, vortrefflich gelungen.«<br /><em>Philipp Haibach, DIE WELT 23.11.2011</em></p>]]></d104>
+    </othertext>
+    <othertext>
+      <d102>08</d102>
+      <d103>02</d103>
+      <d104><![CDATA[<p>»<em>Alte Meister</em> ist eine kongeniale Adaption eines großen Romans – und eine unerhört kluge Reflexion auf die Kunstform des Comic und auf die noch immer unbeantwortete Frage, ob man die Wahrheit der Kunst in den Meistern findet oder nicht vielmehr in der Ästhetik der alltäglichen Existenz.«<br /><em>Jens Balzer, Literaturen 6/2011</em></p>]]></d104>
+    </othertext>
+    <othertext>
+      <d102>08</d102>
+      <d103>02</d103>
+      <d104><![CDATA[<p>»Der spezielle Bernhard-Klang bleibt erhalten, meist in Textkästen am oberen und unteren Rand der Seite. Dazwischen setzt Mahler in großformatigen Illustrationen schlaue Pointen – teilweise in wahren Weihespielen perverser Reduktion, indem weitere Bernhard-Wörter etwas verdecken. Das Wechselspiel von Wort und Bild produziert hier etwas ganz Eigenständiges.«<br /><em>Christoph Huber, Die Presse 27.11.2011</em></p>]]></d104>
+    </othertext>
+    <othertext>
+      <d102>08</d102>
+      <d103>02</d103>
+      <d104><![CDATA[<p>»Liest man Bernhards Sätze im Zusammenhang mit Mahlers bis zur Abstraktion simplifizierten Zeichnungen, kann man zu der Überzeugung gelangen, dass Bernhard und Mahler auch ein grandioses Cartoon-Gespann abgegeben hätten. Mahlers Bilder fügen hier Bernhards Text eine zusätzliche Ebene hinzu.«<br /><em>Thomas von Steinaecker, Volltext 4/2011</em></p>]]></d104>
+    </othertext>
+    <othertext>
+      <d102>08</d102>
+      <d103>02</d103>
+      <d104><![CDATA[<p>&raquo;Ja wie? Geht doch gar nicht: die rauschhaften Schimpftiraden des notorischen Grantlers Thomas Bernhard als Graphie Novel? Und wie das geht! Der gro&szlig;artige Wiener Zeichner Nicolas Mahler hat den Klassiker <em>AlteMeister</em> mit sparsamem, aber sicher platziertem Strich in gro&szlig;e Comic-Kunst verwandelt. Immer komisch, niemals kalauernd.&laquo;<br /><em>Stern 52/2011</em></p>]]></d104>
+    </othertext>
+    <othertext>
+      <d102>08</d102>
+      <d103>02</d103>
+      <d104><![CDATA[<p>&raquo;International ist Nicolas Mahler ein gefeierter Comic-Star ..., der sich nun zeichnerisch an die gro&szlig;e Kunstbetrachtungs-Kom&ouml;die eines anderen Meisters traut. Dabei trifft Thomas Bemhards Wortgewalt auf Museums-Prunk und zeichnerischen Minimalismus. Wie Bernhard Ist auch Mahler &Uuml;bertreibungsk&uuml;nstler.&laquo;<br /><em>3sat.de 23.01.2012</em></p>]]></d104>
+    </othertext>
+    <othertext>
+      <d102>08</d102>
+      <d103>02</d103>
+      <d104><![CDATA[<p>»Thomas Bernhards <em>Alte Meister</em> in einer Comic-Fassung? Dem Zeichner Nicolas Mahler gelingt das mit Bravour. Er eröffnet damit die erste Comic-Reihe des ehrwürdigen Suhrkamp Verlags ... Zum Auftakt der Reihe nun also Nicolas Mahler und Thomas Bernhard: Das erweist sich als eine grandiose Kombination.«<br /><em>Jens Balzer, Cicero online 06.02.2012</em></p>]]></d104>
+    </othertext>
+    <mediafile>
+      <f114>01</f114>
+      <f116>06</f116>
+      <f117>9783518760208.epub</f117>
+    </mediafile>
+    <publisher>
+      <b291>01</b291>
+      <b241>04</b241>
+      <b243>16329</b243>
+      <b081>Suhrkamp Verlag</b081>
+    </publisher>
+    <publisher>
+      <b291>01</b291>
+      <b241>05</b241>
+      <b243>5109046</b243>
+      <b081>Suhrkamp Verlag</b081>
+    </publisher>
+    <b209>Berlin</b209>
+    <b083>DE</b083>
+    <b003>20120402</b003>
+    <relatedproduct>
+      <h208>13</h208>
+      <productidentifier>
+        <b221>15</b221>
+        <b244>9783518465790</b244>
+      </productidentifier>
+    </relatedproduct>
+    <supplydetail>
+      <j137>Suhrkamp Verlag / Insel Verlag</j137>
+      <website>
+        <b295>http://www.suhrkamp.de/handel_184.html</b295>
+      </website>
+      <j292>01</j292>
+      <j141>IP</j141>
+      <j396>20</j396>
+    <j143>20120402</j143>
+      <price>
+        <j148>04</j148>
+        <j151>18.99</j151>
+        <j152>EUR</j152>
+        <b251>DE</b251>
+        <j153>S</j153>
+        <j162>20150301</j162>
+      </price>
+      <price>
+        <j148>04</j148>
+        <j151>18.99</j151>
+        <j152>EUR</j152>
+        <b251>AT</b251>
+        <j153>S</j153>
+        <j162>20150301</j162>
+      </price>
+      <price>
+        <j148>02</j148>
+        <j151>24.00</j151>
+        <j152>CHF</j152>
+        <b251>CH</b251>
+        <j153>S</j153>
+        <j162>20150301</j162>
+      </price>
+      <price>
+        <j148>42</j148>
+        <j151>18.99</j151>
+        <j152>EUR</j152>
+        <b251>DE AT CH FR GB LI LU</b251>
+        <j153>S</j153>
+        <j162>20150301</j162>
+      </price>
+      <price>
+        <j148>42</j148>
+        <j151>24.00</j151>
+        <j152>CHF</j152>
+        <b251>CH</b251>
+        <j153>S</j153>
+      </price>
+      <price>
+        <j148>04</j148>
+        <j151>11.99</j151>
+        <j152>EUR</j152>
+        <b251>DE</b251>
+        <j153>S</j153>
+        <j161>20150302</j161>
+      </price>
+      <price>
+        <j148>04</j148>
+        <j151>11.99</j151>
+        <j152>EUR</j152>
+        <b251>AT</b251>
+        <j153>S</j153>
+        <j161>20150302</j161>
+      </price>
+      <price>
+        <j148>02</j148>
+        <j151>14.00</j151>
+        <j152>CHF</j152>
+        <b251>CH</b251>
+        <j153>S</j153>
+        <j161>20150302</j161>
+      </price>
+    </supplydetail>
+  </product>
+
+  <!-- PRODUCT No.6 -->
+  <product>
+    <a001>sv1978-3-518-76028-4</a001>
+    <a002>03</a002>
+    <productidentifier>
+      <b221>03</b221>
+      <b244>9783518760284</b244>
+    </productidentifier>
+    <productidentifier>
+      <b221>15</b221>
+      <b244>9783518760284</b244>
+    </productidentifier>
+    <b012>DG</b012>
+    <b211>029</b211>
+    <b212>2.0</b212>
+    <b277>03</b277>
+    <title>
+      <b202>01</b202>
+      <b203>Alte Meister</b203>
+      <b029>Graphic Novel</b029>
+    </title>
+    <contributor>
+      <b035>A01</b035>
+      <b340>1</b340>
+      <b036>Thomas Bernhard</b036>
+      <b037>Bernhard, Thomas</b037>
+      <b039>Thomas</b039>
+      <b040>Bernhard</b040>
+      <b044 textformat="02"><![CDATA[<p>Thomas Bernhard, 1931 in Heerlen (Niederlande) geboren, starb im Februar 1989 in Gmunden (Oberösterreich). Er zählt zu den bedeutendsten österreichischen Schriftstellern und wurde unter anderem 1970 mit dem Georg-Büchner-Preis und 1972 mit dem Grimme-Preis ausgezeichnet. Der Suhrkamp Verlag publiziert eine Werkausgabe in 22 Bänden.</p>]]></b044>
+    <website>
+      <b295>http://www.suhrkamp.de/autoren/autor.cfm?id=340</b295>
+    </website>
+    </contributor>
+    <contributor>
+      <b035>B01</b035>
+      <b340>1</b340>
+      <b036>Andreas Platthaus</b036>
+      <b037>Platthaus, Andreas</b037>
+      <b039>Andreas</b039>
+      <b040>Platthaus</b040>
+    <website>
+      <b295>http://www.suhrkamp.de/autoren/autor.cfm?id=3750</b295>
+    </website>
+    </contributor>
+    <contributor>
+      <b035>A12</b035>
+      <b340>1</b340>
+      <b036>Nicolas Mahler</b036>
+      <b037>Mahler, Nicolas</b037>
+      <b039>Nicolas</b039>
+      <b040>Mahler</b040>
+      <b044 textformat="02"><![CDATA[<p>Nicolas Mahler, geboren 1969, lebt und arbeitet als Comiczeichner und Illustrator in Wien. Seine Comics und Cartoons erscheinen in Zeitungen und Magazinen wie <em>Die Zeit</em>,<em> NZZ am Sonntag</em>,<em> Frankfurter Allgemeine Sonntagszeitung</em> und in der <em>Titanic</em>. Für sein umfangreiches Werk wurde er bereits mehrfach ausgezeichnet; zuletzt erhielt er den Max-und Moritz-Preis als »Bester deutschsprachiger Comic-Künstler«.</p>]]></b044>
+    <website>
+      <b295>http://www.suhrkamp.de/autoren/autor.cfm?id=8478</b295>
+    </website>
+    </contributor>
+    <b057>1</b057>
+    <language>
+      <b253>01</b253>
+      <b252>ger</b252>
+    </language>
+    <b061>158</b061>
+    <b255>158</b255>
+    <mainsubject>
+      <b191>26</b191>
+      <b068>2.0</b068>
+      <b069>9181</b069>
+    </mainsubject>
+    <mainsubject>
+      <b191>93</b191>
+      <b068>1.0</b068>
+      <b069>XQB</b069>
+    </mainsubject>
+    <othertext>
+      <d102>01</d102>
+      <d103>06</d103>
+      <d104>Im Wiener Kunsthistorischen Museum, auf der Sitzbank gegenüber von Tintorettos »Weißbärtigem Mann«, bezieht jeden zweiten Vormittag – außer an den eintrittsfreien Samstagen – der Musikphilosoph Reger Stellung. Eines Tages wird die Routine unterbrochen: Reger bittet seinen Freund Atzbacher, sich ausgerechnet am Samstag mit ihm im Museum zu treffen. Doch bevor der Grund für dieses ungewöhnliche Verhalten enthüllt wird, ergeht sich Reger in herrlich schwungvollen Tiraden gegen die Kunst im allgemeinen, die Maler im besonderen, verdammt Stifter ebenso wie Heidegger, beschimpft Wien und die Wiener – und weiß doch, daß die einzige Rettung im menschlichen Gegenüber zu finden ist, im »Lebensmenschen« in seinem Fall.</d104>
+    </othertext>
+    <othertext>
+      <d102>13</d102>
+      <d103>02</d103>
+      <d104><![CDATA[<p>Thomas Bernhard, 1931 in Heerlen (Niederlande) geboren, starb im Februar 1989 in Gmunden (Oberösterreich). Er zählt zu den bedeutendsten österreichischen Schriftstellern und wurde unter anderem 1970 mit dem Georg-Büchner-Preis und 1972 mit dem Grimme-Preis ausgezeichnet. Der Suhrkamp Verlag publiziert eine Werkausgabe in 22 Bänden.</p>
+
+<p>Nicolas Mahler, geboren 1969, lebt und arbeitet als Comiczeichner und Illustrator in Wien. Seine Comics und Cartoons erscheinen in Zeitungen und Magazinen wie <em>Die Zeit</em>,<em> NZZ am Sonntag</em>,<em> Frankfurter Allgemeine Sonntagszeitung</em> und in der <em>Titanic</em>. Für sein umfangreiches Werk wurde er bereits mehrfach ausgezeichnet; zuletzt erhielt er den Max-und Moritz-Preis als »Bester deutschsprachiger Comic-Künstler«.</p>
+
+]]></d104>
+    </othertext>
+    <othertext>
+      <d102>99</d102>
+      <d104>DE</d104>
+    </othertext>
+    <mediafile>
+      <f114>01</f114>
+      <f116>06</f116>
+      <f117>9783518760284.epub</f117>
+    </mediafile>
+    <publisher>
+      <b291>01</b291>
+      <b241>04</b241>
+      <b243>16329</b243>
+      <b081>Suhrkamp Verlag</b081>
+    </publisher>
+    <publisher>
+      <b291>01</b291>
+      <b241>05</b241>
+      <b243>5109046</b243>
+      <b081>Suhrkamp Verlag</b081>
+    </publisher>
+    <b209>Berlin</b209>
+    <b083>DE</b083>
+    <b003>20120402</b003>
+    <relatedproduct>
+      <h208>13</h208>
+      <productidentifier>
+        <b221>15</b221>
+        <b244>9783518465790</b244>
+      </productidentifier>
+    </relatedproduct>
+    <supplydetail>
+      <j137>Suhrkamp Verlag / Insel Verlag</j137>
+      <website>
+        <b295>http://www.suhrkamp.de/handel_184.html</b295>
+      </website>
+      <j292>01</j292>
+      <j141>IP</j141>
+      <j396>20</j396>
+    <j143>20120402</j143>
+      <price>
+        <j148>04</j148>
+        <j151>18.99</j151>
+        <j152>EUR</j152>
+        <b251>DE</b251>
+        <j153>S</j153>
+        <j162>20150301</j162>
+      </price>
+      <price>
+        <j148>04</j148>
+        <j151>18.99</j151>
+        <j152>EUR</j152>
+        <b251>AT</b251>
+        <j153>S</j153>
+        <j162>20150301</j162>
+      </price>
+      <price>
+        <j148>02</j148>
+        <j151>24.00</j151>
+        <j152>CHF</j152>
+        <b251>CH</b251>
+        <j153>S</j153>
+        <j162>20150301</j162>
+      </price>
+      <price>
+        <j148>42</j148>
+        <j151>18.99</j151>
+        <j152>EUR</j152>
+        <b251>DE AT CH FR GB LI LU</b251>
+        <j153>S</j153>
+        <j162>20150301</j162>
+      </price>
+      <price>
+        <j148>42</j148>
+        <j151>24.00</j151>
+        <j152>CHF</j152>
+        <b251>CH</b251>
+        <j153>S</j153>
+      </price>
+      <price>
+        <j148>04</j148>
+        <j151>11.99</j151>
+        <j152>EUR</j152>
+        <b251>DE</b251>
+        <j153>S</j153>
+        <j161>20150302</j161>
+      </price>
+      <price>
+        <j148>04</j148>
+        <j151>11.99</j151>
+        <j152>EUR</j152>
+        <b251>AT</b251>
+        <j153>S</j153>
+        <j161>20150302</j161>
+      </price>
+      <price>
+        <j148>02</j148>
+        <j151>14.00</j151>
+        <j152>CHF</j152>
+        <b251>CH</b251>
+        <j153>S</j153>
+        <j161>20150302</j161>
+      </price>
+    </supplydetail>
+  </product>
+</ONIXmessage>

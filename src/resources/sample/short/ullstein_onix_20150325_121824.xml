@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ONIXmessage SYSTEM "http://www.editeur.org/onix/2.1/short/onix-international.dtd">
+
+<ONIXmessage>
+  <header>
+    <m174>Ullstein Buchverlage</m174>
+    <m175>Werner Stolp</m175>
+    <m283>werner.stolp@ullstein-buchverlage.de</m283>
+    <m182>201503251218</m182>
+  </header>
+  <product>
+    <a001>9783843710992</a001>
+    <a002>03</a002>
+    <productidentifier>
+      <b221>15</b221>
+      <b244>9783843710992</b244>
+    </productidentifier>
+    <productidentifier>
+      <b221>03</b221>
+      <b244>9783843710992</b244>
+    </productidentifier>
+    <b012>DG</b012>
+    <b211>029</b211>
+    <b277>01</b277>
+    <title>
+      <b202>01</b202>
+      <b203>Zwei fürs Leben</b203>
+      <b029>Roman</b029>
+    </title>
+    <contributor>
+      <b035>A01</b035>
+      <b340>1</b340>
+      <b036>Julia Hanel</b036>
+      <b037>Hanel, Julia</b037>
+      <b039>Julia</b039>
+      <b040>Hanel</b040>
+      <b044><![CDATA[Julia Hanel, geboren 1987, studierte Literaturwissenschaft in Bamberg und arbeitete danach als Redakteurin für ein Lokalmagazin in Fulda. Heute lebt und arbeitet sie in Würzburg.]]></b044>
+    </contributor>
+    <language>
+      <b253>01</b253>
+      <b252>ger</b252>
+    </language>
+    <b061>256</b061>
+    <b064>FIC027020</b064>
+    <mainsubject>
+      <b191>10</b191>
+      <b069>FIC027020</b069>
+      <b070>FICTION / Romance / Contemporary</b070>
+    </mainsubject>
+    <mainsubject>
+      <b191>26</b191>
+      <b068>2.0</b068>
+      <b069>9112</b069>
+      <b070>Belletristik/Gegenwartsliteratur (ab 1945)</b070>
+    </mainsubject>
+    <mainsubject>
+      <b191>93</b191>
+      <b068>1.1</b068>
+      <b069>FRD</b069>
+      <b070>Belletristik: Romanzen für Erwachsene, zeitgemäße Romanze</b070>
+    </mainsubject>
+    <subject>
+      <b067>10</b067>
+      <b069>FIC000000</b069>
+      <b070>FICTION / General</b070>
+    </subject>
+    <subject>
+      <b067>93</b067>
+      <b068>1.1</b068>
+      <b069>FBA</b069>
+      <b070>Moderne und zeitgenössische Belletristik (ab 1945)</b070>
+    </subject>
+    <subject>
+      <b067>98</b067>
+      <b068>1.0</b068>
+      <b069>5JA</b069>
+      <b070>Intended specifically for women and/or girls</b070>
+    </subject>
+    <subject>
+      <b067>20</b067>
+      <b070>Liebe</b070>
+    </subject>
+    <subject>
+      <b067>20</b067>
+      <b070>Gefühle</b070>
+    </subject>
+    <subject>
+      <b067>20</b067>
+      <b070>Happy End</b070>
+    </subject>
+    <subject>
+      <b067>20</b067>
+      <b070>Romantik</b070>
+    </subject>
+    <subject>
+      <b067>20</b067>
+      <b070>Hamburg</b070>
+    </subject>
+    <subject>
+      <b067>20</b067>
+      <b070>Frauen</b070>
+    </subject>
+    <subject>
+      <b067>20</b067>
+      <b070>Amy Silver</b070>
+    </subject>
+    <othertext>
+      <d102>01</d102>
+      <d103>06</d103>
+      <d104><![CDATA[„Du musst es ihnen sagen!“
+„ Was soll ich ihnen denn sagen? ‚Ich höre Stimmen‘? Dann komme ich hier nie wieder raus.“
+„Eine Stimme.“
+„Was?“
+„Du hörst nur eine Stimme. Meine.“
+„Klar, das ändert natürlich alles. ‚Herr Doktor, ich höre eine Stimme seit dem Unfall‘, ‚Ach, nur eine? Na dann …‘
+„Das ist nicht witzig.“
+Nein, dachte ich, es ist nicht witzig, plötzlich aufzuwachen und eine Stimme in seinem Kopf zu hören, die einem fremden Mann gehört.
+Als Anni nach einem schweren Unfall im Krankenhaus erwacht, hört sie eine fremde Stimme in ihrem Kopf. Sie gehört zu Ben, einem jungen Architekten, der behauptet, im Koma zu liegen und ihre Gedanken zu hören. Anni ist skeptisch. Doch am nächsten Tag ist Bens Stimme wieder in ihrem Kopf. Und am übernächsten auch. Schon bald werden die Gespräche mit Ben, die mal witzig und mal nachdenklich sind, zum Höhepunkt ihres Tages. Obwohl sie einander noch nie gesehen haben, kommen sich Anni und Ben immer näher. Zu nah, denn beide sind in festen Beziehungen. Trotzdem lässt sie die Stimme des anderen nicht mehr los, und Anni beginnt sich zu fragen, ob man sich wirklich in einen Unbekannten verlieben kann ...]]></d104>
+    </othertext>
+    <othertext>
+      <d102>03</d102>
+      <d103>06</d103>
+      <d104><![CDATA[„Du musst es ihnen sagen!“
+„ Was soll ich ihnen denn sagen? ‚Ich höre Stimmen‘? Dann komme ich hier nie wieder raus.“
+„Eine Stimme.“
+„Was?“
+„Du hörst nur eine Stimme. Meine.“
+„Klar, das ändert natürlich alles. ‚Herr Doktor, ich höre eine Stimme seit dem Unfall‘, ‚Ach, nur eine? Na dann …‘
+„Das ist nicht witzig.“
+Nein, dachte ich, es ist nicht witzig, plötzlich aufzuwachen und eine Stimme in seinem Kopf zu hören, die einem fremden Mann gehört.
+Als Anni nach einem schweren Unfall im Krankenhaus erwacht, hört sie eine fremde Stimme in ihrem Kopf. Sie gehört zu Ben, einem jungen Architekten, der behauptet, im Koma zu liegen und ihre Gedanken zu hören. Anni ist skeptisch. Doch am nächsten Tag ist Bens Stimme wieder in ihrem Kopf. Und am übernächsten auch. Schon bald werden die Gespräche mit Ben, die mal witzig und mal nachdenklich sind, zum Höhepunkt ihres Tages. Obwohl sie einander noch nie gesehen haben, kommen sich Anni und Ben immer näher. Zu nah, denn beide sind in festen Beziehungen. Trotzdem lässt sie die Stimme des anderen nicht mehr los, und Anni beginnt sich zu fragen, ob man sich wirklich in einen Unbekannten verlieben kann ...]]></d104>
+    </othertext>
+    <othertext>
+      <d102>13</d102>
+      <d103>06</d103>
+      <d104><![CDATA[Julia Hanel, geboren 1987, studierte Literaturwissenschaft in Bamberg und arbeitete danach als Redakteurin für ein Lokalmagazin in Fulda. Heute lebt und arbeitet sie in Würzburg.]]></d104>
+    </othertext>
+    <mediafile>
+      <f114>04</f114>
+      <f115>03</f115>
+      <f116>01</f116>
+      <f117>http://www.bonnier-mediadaten.de/ullstein/cover/9783843710992.jpg</f117>
+    </mediafile>
+    <publisher>
+      <b291>01</b291>
+      <b241>05</b241>
+      <b243>5246159</b243>
+      <b081>Ullstein eBooks</b081>
+    </publisher>
+    <b083>DE</b083>
+    <b394>02</b394>
+    <b003>20150608</b003>
+    <salesrights>
+      <b089>02</b089>
+      <b090>AT CH BE BG CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LI LT LU LV MT NL PL PT RO SE SI SK</b090>
+    </salesrights>
+    <relatedproduct>
+      <h208>13</h208>
+      <productidentifier>
+        <b221>03</b221>
+        <b244>9783548286723</b244>
+      </productidentifier>
+      <b012>BC</b012>
+    </relatedproduct>
+    <supplydetail>
+      <supplieridentifier>
+        <j345>05</j345>
+        <b233>Kenn-Nr</b233>
+        <b244>5246159</b244>
+      </supplieridentifier>
+      <j137>Ullstein eBooks</j137>
+      <j292>00</j292>
+      <j141>NP</j141>
+      <j396>10</j396>
+      <j260>00</j260>
+      <j142>20150608</j142>
+      <j143>20150608</j143>
+      <price>
+        <j148>04</j148>
+        <j266>02</j266>
+        <j151>7.99</j151>
+        <j152>EUR</j152>
+        <b251>DE</b251>
+        <j153>S</j153>
+      </price>
+      <price>
+        <j148>03</j148>
+        <j266>02</j266>
+        <j151>6.71</j151>
+        <j152>EUR</j152>
+        <b251>DE</b251>
+        <j153>S</j153>
+      </price>
+      <price>
+        <j148>04</j148>
+        <j266>02</j266>
+        <j151>7.99</j151>
+        <j152>EUR</j152>
+        <b251>AT</b251>
+        <j153>S</j153>
+      </price>
+      <price>
+        <j148>02</j148>
+        <j266>02</j266>
+        <j151>12.00</j151>
+        <j152>CHF</j152>
+        <b251>CH</b251>
+        <j153>S</j153>
+      </price>
+      <price>
+        <j148>42</j148>
+        <j266>02</j266>
+        <j151>7.99</j151>
+        <j152>EUR</j152>
+        <b251>AT CH BE BG CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LI LT LU LV MT NL PL PT RO SE SI SK</b251>
+        <j153>S</j153>
+      </price>
+      <price>
+        <j148>41</j148>
+        <j266>02</j266>
+        <j151>6.71</j151>
+        <j152>EUR</j152>
+        <b251>AT CH BE BG CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LI LT LU LV MT NL PL PT RO SE SI SK</b251>
+        <j153>S</j153>
+      </price>
+      <price>
+        <j148>42</j148>
+        <j266>02</j266>
+        <j151>12.00</j151>
+        <j152>CHF</j152>
+        <b251>CH LI</b251>
+        <j153>S</j153>
+      </price>
+      <price>
+        <j148>41</j148>
+        <j266>02</j266>
+        <j151>10.08</j151>
+        <j152>CHF</j152>
+        <b251>CH LI</b251>
+        <j153>S</j153>
+      </price>
+    </supplydetail>
+  </product>
+</ONIXmessage>

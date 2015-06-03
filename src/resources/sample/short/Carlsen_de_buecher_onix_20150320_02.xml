@@ -1,0 +1,347 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ONIXmessage SYSTEM "http://www.editeur.org/onix/2.1/short/onix-international.dtd">
+
+<ONIXmessage>
+  <header>
+    <m174>CARLSEN Verlag GmbH</m174>
+    <m175>Kirsten Bohlen</m175>
+    <m283>Kirsten.Bohlen@carlsen.de</m283>
+    <m182>201503201613</m182>
+  </header>
+  <product>
+    <a001>9783646926828</a001>
+    <a002>03</a002>
+    <productidentifier>
+      <b221>15</b221>
+      <b244>9783646926828</b244>
+    </productidentifier>
+    <productidentifier>
+      <b221>03</b221>
+      <b244>9783646926828</b244>
+    </productidentifier>
+    <b012>DG</b012>
+    <b211>029</b211>
+    <b277>03</b277>
+    <series>
+      <seriesidentifier>
+        <b273>01</b273>
+        <b233>Serie</b233>
+        <b244>Famous in Love</b244>
+      </seriesidentifier>
+      <b018>Famous in Love</b018>
+      <b019>1</b019>
+    </series>
+    <title>
+      <b202>01</b202>
+      <b203>Famous in Love, Band 1: Famous in Love</b203>
+    </title>
+    <contributor>
+      <b035>A01</b035>
+      <b340>1</b340>
+      <b036>Rebecca Serle</b036>
+      <b037>Serle, Rebecca</b037>
+      <b039>Rebecca</b039>
+      <b040>Serle</b040>
+    </contributor>
+    <contributor>
+      <b035>B06</b035>
+      <b340>1</b340>
+      <b036>Claudia Max</b036>
+      <b037>Max, Claudia</b037>
+      <b039>Claudia</b039>
+      <b040>Max</b040>
+    </contributor>
+    <language>
+      <b253>01</b253>
+      <b252>ger</b252>
+    </language>
+    <b061>320</b061>
+    <b064>JUV026000</b064>
+    <mainsubject>
+      <b191>10</b191>
+      <b069>JUV026000</b069>
+      <b070>JUVENILE FICTION / Love &amp; Romance</b070>
+    </mainsubject>
+    <mainsubject>
+      <b191>26</b191>
+      <b068>2.0</b068>
+      <b069>9260</b069>
+      <b070>Kinder- und Jugendbücher/Jugendbücher ab 12 Jahre</b070>
+    </mainsubject>
+    <mainsubject>
+      <b191>93</b191>
+      <b068>1.1</b068>
+      <b069>YFM</b069>
+      <b070>Liebes- und Beziehungsgeschichten (Kinder/Jugendliche)</b070>
+    </mainsubject>
+    <subject>
+      <b067>10</b067>
+      <b069>JUV000000</b069>
+      <b070>JUVENILE FICTION / General</b070>
+    </subject>
+    <subject>
+      <b067>10</b067>
+      <b069>FIC027000</b069>
+      <b070>FICTION / Romance / General</b070>
+    </subject>
+    <subject>
+      <b067>93</b067>
+      <b068>1.1</b068>
+      <b069>YFB</b069>
+      <b070>Romane und Erzählungen allgemein (Kinder/Jugendliche)</b070>
+    </subject>
+    <subject>
+      <b067>93</b067>
+      <b068>1.1</b068>
+      <b069>FR</b069>
+      <b070>Belletristik: Romanzen (romance)</b070>
+    </subject>
+    <subject>
+      <b067>98</b067>
+      <b068>1.0</b068>
+      <b069>5AP</b069>
+      <b070>empfohlenes Alter: ab 13 Jahre</b070>
+    </subject>
+    <subject>
+      <b067>20</b067>
+      <b070>Casting</b070>
+    </subject>
+    <subject>
+      <b067>20</b067>
+      <b070>Filmstar</b070>
+    </subject>
+    <subject>
+      <b067>20</b067>
+      <b070>Hollywood</b070>
+    </subject>
+    <subject>
+      <b067>20</b067>
+      <b070>Superstar</b070>
+    </subject>
+    <subject>
+      <b067>20</b067>
+      <b070>Liebesroman</b070>
+    </subject>
+    <subject>
+      <b067>20</b067>
+      <b070>Celebrity</b070>
+    </subject>
+    <subject>
+      <b067>20</b067>
+      <b070>Star</b070>
+    </subject>
+    <subject>
+      <b067>20</b067>
+      <b070>Schauspieler</b070>
+    </subject>
+    <subject>
+      <b067>20</b067>
+      <b070>Paparazzi</b070>
+    </subject>
+    <subject>
+      <b067>20</b067>
+      <b070>Glamour</b070>
+    </subject>
+    <subject>
+      <b067>20</b067>
+      <b070>Gossip Girl</b070>
+    </subject>
+    <subject>
+      <b067>20</b067>
+      <b070>Pretty Little Liars</b070>
+    </subject>
+    <subject>
+      <b067>20</b067>
+      <b070>Bella Thorne</b070>
+    </subject>
+    <subject>
+      <b067>20</b067>
+      <b070>Hawaii</b070>
+    </subject>
+    <subject>
+      <b067>20</b067>
+      <b070>L.A.</b070>
+    </subject>
+    <subject>
+      <b067>20</b067>
+      <b070>Los Angeles</b070>
+    </subject>
+    <subject>
+      <b067>20</b067>
+      <b070>berühmt</b070>
+    </subject>
+    <subject>
+      <b067>20</b067>
+      <b070>Carlsen</b070>
+    </subject>
+    <subject>
+      <b067>20</b067>
+      <b070>Roman</b070>
+    </subject>
+    <subject>
+      <b067>20</b067>
+      <b070>Buch</b070>
+    </subject>
+    <subject>
+      <b067>20</b067>
+      <b070>Trilogie</b070>
+    </subject>
+    <subject>
+      <b067>20</b067>
+      <b070>O.C. California</b070>
+    </subject>
+    <subject>
+      <b067>20</b067>
+      <b070>Carrie Diaries</b070>
+    </subject>
+    <subject>
+      <b067>20</b067>
+      <b070>Lying Game</b070>
+    </subject>
+    <subject>
+      <b067>20</b067>
+      <b070>Entourage</b070>
+    </subject>
+    <subject>
+      <b067>20</b067>
+      <b070>Liebe</b070>
+    </subject>
+    <subject>
+      <b067>20</b067>
+      <b070>Romantik</b070>
+    </subject>
+    <audiencerange>
+      <b074>17</b074>
+      <b075>03</b075>
+      <b076>13</b076>
+      <b075>04</b075>
+      <b076>99</b076>
+    </audiencerange>
+    <othertext>
+      <d102>01</d102>
+      <d103>06</d103>
+      <d104><![CDATA[Paige Townsen ist ein ganz gewöhnliches Mädchen. Dann ergattert sie die Hauptrolle in einer Filmtrilogie und plötzlich kennt jeder ihren Namen. Doch zwischen einer Highschool-Bühne und einem Hollywood-Projekt liegt ein himmelweiter Unterschied. Die Presse dichtet Paige sofort eine Beziehung mit ihrem Filmpartner Rayner Devon an. Und als Bad-Boy Jordan Wilder auftaucht, ist die Dreiecksbeziehung perfekt, sowohl vor als auch hinter der Kamera. Paige muss herausfinden, wer sie ist und was sie will – während der Rest der Welt ihr dabei zuschaut.
+Band 1 einer romantischen Trilogie zum Mitfiebern. Band 2 erscheint im März 2016.
+
+„Wenn du romantische All-Age-Bücher, Klatsch und Tratsch über Stars oder einfach nur fantastische Romane magst, solltest du dir dies hier unbedingt anschauen!“
+(Lauren Oliver)
+
+„Rebecca Serle zeigt, wie es sich anfühlt, Teil des jungen Hollywoods zu sein. Ich liebe Famous in Love! Ein absolutes Muss für jeden, der neugierig auf das Leben und die Liebe hinter den Kulissen ist.“
+(Bella Thorne)]]></d104>
+    </othertext>
+    <othertext>
+      <d102>03</d102>
+      <d103>06</d103>
+      <d104><![CDATA[Paige Townsen ist ein ganz gewöhnliches Mädchen. Dann ergattert sie die Hauptrolle in einer Filmtrilogie und plötzlich kennt jeder ihren Namen. Doch zwischen einer Highschool-Bühne und einem Hollywood-Projekt liegt ein himmelweiter Unterschied. Die Presse dichtet Paige sofort eine Beziehung mit ihrem Filmpartner Rayner Devon an. Und als Bad-Boy Jordan Wilder auftaucht, ist die Dreiecksbeziehung perfekt, sowohl vor als auch hinter der Kamera. Paige muss herausfinden, wer sie ist und was sie will – während der Rest der Welt ihr dabei zuschaut.
+Band 1 einer romantischen Trilogie zum Mitfiebern. Band 2 erscheint im März 2016.
+
+„Wenn du romantische All-Age-Bücher, Klatsch und Tratsch über Stars oder einfach nur fantastische Romane magst, solltest du dir dies hier unbedingt anschauen!“
+(Lauren Oliver)
+
+„Rebecca Serle zeigt, wie es sich anfühlt, Teil des jungen Hollywoods zu sein. Ich liebe Famous in Love! Ein absolutes Muss für jeden, der neugierig auf das Leben und die Liebe hinter den Kulissen ist.“
+(Bella Thorne)]]></d104>
+    </othertext>
+    <mediafile>
+      <f114>04</f114>
+      <f115>03</f115>
+      <f116>01</f116>
+      <f117>http://www.bonnier-mediadaten.de/carlsen/cover/9783646926828.jpg</f117>
+    </mediafile>
+    <publisher>
+      <b291>01</b291>
+      <b241>05</b241>
+      <b243>5106586</b243>
+      <b081>Carlsen</b081>
+    </publisher>
+    <b083>DE</b083>
+    <b394>04</b394>
+    <b003>20150313</b003>
+    <salesrights>
+      <b089>02</b089>
+      <b090>AT CH BE BG CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LI LT LU LV MT NL PL PT RO SE SI SK</b090>
+    </salesrights>
+    <relatedproduct>
+      <h208>13</h208>
+      <productidentifier>
+        <b221>03</b221>
+        <b244>9783551313911</b244>
+      </productidentifier>
+      <b012>BC</b012>
+    </relatedproduct>
+    <supplydetail>
+      <supplieridentifier>
+        <j345>05</j345>
+        <b233>Kenn-Nr</b233>
+        <b244>5106586</b244>
+      </supplieridentifier>
+      <j137>Carlsen</j137>
+      <j292>00</j292>
+      <j141>IP</j141>
+      <j396>20</j396>
+      <price>
+        <j148>04</j148>
+        <j266>02</j266>
+        <j151>10.99</j151>
+        <j152>EUR</j152>
+        <b251>AT</b251>
+        <j153>S</j153>
+      </price>
+      <price>
+        <j148>02</j148>
+        <j266>02</j266>
+        <j151>14.00</j151>
+        <j152>CHF</j152>
+        <b251>CH</b251>
+        <j153>S</j153>
+      </price>
+      <price>
+        <j148>04</j148>
+        <j266>02</j266>
+        <j151>10.99</j151>
+        <j152>EUR</j152>
+        <b251>DE</b251>
+        <j153>S</j153>
+      </price>
+      <price>
+        <j148>03</j148>
+        <j266>02</j266>
+        <j151>9.23</j151>
+        <j152>EUR</j152>
+        <b251>DE</b251>
+        <j153>S</j153>
+      </price>
+      <price>
+        <j148>42</j148>
+        <j266>02</j266>
+        <j151>10.99</j151>
+        <j152>EUR</j152>
+        <b251>AT CH BE BG CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LI LT LU LV MT NL PL PT RO SE SI SK</b251>
+        <j153>S</j153>
+      </price>
+      <price>
+        <j148>41</j148>
+        <j266>02</j266>
+        <j151>9.23</j151>
+        <j152>EUR</j152>
+        <b251>AT CH BE BG CY CZ DE DK EE ES FI FR GB GR HR HU IE IT LI LT LU LV MT NL PL PT RO SE SI SK</b251>
+        <j153>S</j153>
+      </price>
+      <price>
+        <j148>42</j148>
+        <j266>02</j266>
+        <j151>14.00</j151>
+        <j152>CHF</j152>
+        <b251>CH LI</b251>
+        <j153>S</j153>
+      </price>
+      <price>
+        <j148>41</j148>
+        <j266>02</j266>
+        <j151>11.76</j151>
+        <j152>CHF</j152>
+        <b251>CH LI</b251>
+        <j153>S</j153>
+      </price>
+    </supplydetail>
+  </product>
+ </ONIXmessage>
